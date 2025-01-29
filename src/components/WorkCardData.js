@@ -1,6 +1,6 @@
 import studentApp from "../images/studentApp.png";
 import studentApp2 from "../images/studentApp2.png";
-import studentApp3 from "../images/studentApp3.png";
+import portfolio from "../images/portfolio.png";
 
 //local api that fetchs data to the project card
 const ProjectCardData = [
@@ -19,10 +19,10 @@ const ProjectCardData = [
     source: "https://github.com/lyspaul/EmailAIWriter.git",
   },
   {
-    imgSrc: studentApp3,
+    imgSrc: portfolio,
     title: "My Personal Porfolio",
     text: "This is a full stack personal portfolio website",
-    view: "url to be added",
+    view: "https://my-portfolio-lp.azurewebsites.net/",
     source: "https://github.com/lyspaul/portfolio-app.git",
   },
 ];
