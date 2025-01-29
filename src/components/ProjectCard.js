@@ -3,6 +3,7 @@ import "./ProjectCard.css";
 import studentApp from "../images/studentApp.png";
 import { NavLink } from "react-router-dom";
 
+//Creates a project card
 const ProjectCard = (props) => {
   return (
     <div className="project-card">

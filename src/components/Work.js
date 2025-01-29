@@ -3,6 +3,7 @@ import "./ProjectCard.css";
 import ProjectCard from "./ProjectCard";
 import WorkCardData from "./WorkCardData";
 
+//Frame that contains the Projects cards
 const Work = () => {
   return (
     <div className="projects-container">
