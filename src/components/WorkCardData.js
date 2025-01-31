@@ -1,5 +1,5 @@
 import studentApp from "../images/studentApp.png";
-import studentApp2 from "../images/studentApp2.png";
+import emailGeneratorProject from "../images/emailGeneratorProject.png";
 import portfolio from "../images/portfolio.png";
 
 //local api that fetchs data to the project card
@@ -12,7 +12,7 @@ const ProjectCardData = [
     source: "https://github.com/lyspaul/portfolio-app.git",
   },
   {
-    imgSrc: studentApp2,
+    imgSrc: emailGeneratorProject,
     title: "AI Email Reply Application",
     text: "This is an application that generates AI email responses for users",
     view: "url to be added",
