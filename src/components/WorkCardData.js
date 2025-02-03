@@ -9,13 +9,13 @@ const ProjectCardData = [
     title: "Student Application",
     text: "This is a student application.It gives the users options to add students, modify, and view all students",
     view: "https://student-app-ui-production.up.railway.app/",
-    source: "https://github.com/lyspaul/portfolio-app.git",
+    source: "https://github.com/lyspaul/studentApp.git",
   },
   {
     imgSrc: emailGeneratorProject,
     title: "AI Email Reply Application",
     text: "This is an application that generates AI email responses for users. Using tones to determine the nature of the email",
-    view: "url to be added",
+    view: "https://ai-emailreply-generator-lp-dfdxfahbf2haamek.canadacentral-01.azurewebsites.net/",
     source: "https://github.com/lyspaul/EmailAIWriter.git",
   },
   {
